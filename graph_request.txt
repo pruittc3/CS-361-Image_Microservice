@@ -1,0 +1,7 @@
+graph_type=bar
+title=Monthly Expenses
+labels=Rent,Food,Gas,Utilities
+values=1200,400,150,250
+x_label=Expense Category
+y_label=Amount in Dollars
+output_filename=monthly_expenses.png
